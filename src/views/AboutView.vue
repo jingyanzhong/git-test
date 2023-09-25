@@ -11,6 +11,7 @@
       <li><a href="">6</a></li>
     </ul>
     <a href="#">按鈕</a>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione optio porro repellendus eos ut odit officia necessitatibus asperiores dolor. Repellat, magni accusantium? Unde optio enim aliquam nostrum dolor iste totam?</p>
   </div>
 </template>
 
