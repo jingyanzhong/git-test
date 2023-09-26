@@ -15,9 +15,9 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione optio porro repellendus eos ut odit officia necessitatibus asperiores dolor. Repellat, magni accusantium? Unde optio enim aliquam nostrum dolor iste totam?</p>
     <table>
       <tr>
-        <td>姓名</td>
-        <td>生日</td>
-        <td>電話</td>
+        <th>姓名</th>
+        <th>生日</th>
+        <th>電話</th>
       </tr>
       <tr>
         <td>王曉明</td>
@@ -42,13 +42,16 @@
 table {
   margin-top: 24px;
   border-collapse: collapse;
-  border: 1px solid #000;
+  border: 1px solid gray;
 }
 tr {
-  border-bottom: 1px solid #000;
+  border-bottom: 1px solid gray;
 }
-td {
+td, th {
   padding: 8px;
 
+}
+th {
+  font-weight: bold;
 }
 </style>
