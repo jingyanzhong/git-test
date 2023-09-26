@@ -10,9 +10,16 @@
       <li><a href="">5</a></li>
       <li><a href="">6</a></li>
     </ul>
-    <a href="#">按鈕</a>
+    <a href="#"> 按鈕 </a>
     <p>123</p>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione optio porro repellendus eos ut odit officia necessitatibus asperiores dolor. Repellat, magni accusantium? Unde optio enim aliquam nostrum dolor iste totam?</p>
+    <table>
+      <tr>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+      </tr>
+    </table>
   </div>
 </template>
 
