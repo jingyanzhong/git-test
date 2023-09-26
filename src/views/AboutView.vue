@@ -15,9 +15,14 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione optio porro repellendus eos ut odit officia necessitatibus asperiores dolor. Repellat, magni accusantium? Unde optio enim aliquam nostrum dolor iste totam?</p>
     <table>
       <tr>
-        <td>1</td>
-        <td>2</td>
-        <td>3</td>
+        <td>姓名</td>
+        <td>生日</td>
+        <td>電話</td>
+      </tr>
+      <tr>
+        <td>王曉明</td>
+        <td>90/01/01</td>
+        <td>0912-345-678</td>
       </tr>
     </table>
   </div>
