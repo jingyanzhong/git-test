@@ -39,5 +39,16 @@
 </template>
 
 <style>
+table {
+  margin-top: 24px;
+  border-collapse: collapse;
+  border: 1px solid #000;
+}
+tr {
+  border-bottom: 1px solid #000;
+}
+td {
+  padding: 8px;
 
+}
 </style>
